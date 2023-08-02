@@ -1,8 +1,10 @@
 {
   "name": "sh-vscode-theme-light",
-  "displayName": "SH-VSCODE-THEME-LIGHT",
+  "displayName": "2023 - Theme (light)",
   "description": "Personal color theme inspired by ayu color theme (light version)",
   "version": "0.0.1",
+  "repository": "https://github.com/SuoweiHu/VSCode-Theme-2023",
+  "publisher": "suoweihu",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -13,7 +15,7 @@
     "themes": [
       {
         "label": "SH-VSCODE-THEME-2023",
-        "uiTheme": "ayu-dark",
+        "uiTheme": "vs-dark",
         "path": "./themes/SH-VSCODE-THEME-2023-color-theme.json"
       }
     ]
