@@ -1,7 +1,6 @@
 {
 	"name": "SH-VSCODE-THEME-2023",
-    "type": "dark",
-	"colors": {
+    "colors": {
 		"activityBar.activeBackground": "#f9bb379a",
 		"activityBar.activeBorder": "#e6b450",
 		"activityBar.background": "#0b0e14",
